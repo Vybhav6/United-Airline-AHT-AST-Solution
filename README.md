@@ -212,3 +212,5 @@ This project demonstrates how **data analytics + machine learning + process opti
 
 ---
 
+Click for detailed PPT - https://canva.link/tn806zn3nboh6fx
+
