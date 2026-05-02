@@ -1,25 +1,18 @@
 # United-Airline-AHT-AST-Solution
 
-Here’s a clean, professional **README.md** file based on your PPT analysis:
+---
+
+# Optimizing Call Center Efficiency for Enhanced Customer Experience
 
 ---
 
-# 📊 Optimizing Call Center Efficiency for Enhanced Customer Experience
-
-### A Data-Driven Approach for United Airlines
-
-**Team Visleshak**
-*(Harshit, Vaibhav)*
-
----
-
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on improving call center efficiency and enhancing customer experience for United Airlines using a **data-driven approach**. The analysis aims to reduce Average Handle Time (AHT), improve Average Sentiment Tone (AST), and optimize customer-agent interactions through actionable insights.
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The project uses the following datasets:
 
@@ -40,11 +33,11 @@ The project uses the following datasets:
   * Average sentiment score
   * Silence percentage
 
-👉 These datasets are used to analyze performance, behavior, and operational inefficiencies. 
+ These datasets are used to analyze performance, behavior, and operational inefficiencies. 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 ### Key Business Goals
 
@@ -55,7 +48,7 @@ The project uses the following datasets:
 
 ---
 
-## ❓ Problem Statements
+##  Problem Statements
 
 ### S1: Identify Drivers of High AHT & AST
 
@@ -71,17 +64,17 @@ The project uses the following datasets:
 
 ---
 
-## ⚙️ Data Processing
+##  Data Processing
 
 * Memory optimization reduced dataset size by **13.2%**
 * Improved computational efficiency and processing speed
-  *(Shown on page 5 of PPT)* 
+ 
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
-### Key Visual Insights (Pages 6–8)
+### Key Visual Insights
 
 * Call reasons significantly impact waiting time and AHT
 * High volume calls observed during **7 AM – 6 PM**
@@ -93,9 +86,9 @@ The project uses the following datasets:
 
 ---
 
-## 🤖 Machine Learning Insights
+##  Machine Learning Insights
 
-### 🔹 AHT Prediction (Random Forest Model)
+###  AHT Prediction (Random Forest Model)
 
 Top influencing factors:
 
@@ -105,12 +98,12 @@ Top influencing factors:
 4. Waiting Time
 5. Customer Tone
 
-👉 Reducing silence and improving interaction quality can significantly reduce AHT.
-*(Page 9)* 
+Reducing silence and improving interaction quality can significantly reduce AHT.
+
 
 ---
 
-### 🔹 AST Prediction
+###  AST Prediction
 
 Top influencing factors:
 
@@ -119,8 +112,8 @@ Top influencing factors:
 3. Silence Percentage
 4. Customer Tone
 
-👉 Longer calls tend to correlate with worse sentiment.
-*(Page 10)* 
+ Longer calls tend to correlate with worse sentiment.
+
 
 ---
 
@@ -135,11 +128,10 @@ Top influencing factors:
   * Traveler Updates
   * Unaccompanied Minor
 
-*(Page 13)* 
 
 ---
 
-## 🔍 Root Cause Analysis (4 WHYs)
+##  Root Cause Analysis (4 WHYs)
 
 1. **Why high AHT?**
    → Complex issues + poor agent tone
@@ -153,18 +145,17 @@ Top influencing factors:
 4. **Why agents overloaded?**
    → Repetitive tasks not automated
 
-*(Page 14)* 
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
-### 🔹 Process Improvements
+###  Process Improvements
 
 * Streamline workflows for complex issues
 * Provide better tools for agents
 
-### 🔹 IVR & Automation
+###  IVR & Automation
 
 * Add self-service options for:
 
@@ -176,17 +167,17 @@ Top influencing factors:
   * Disability support
   * IRROPS
 
-### 🔹 Proactive Communication
+###  Proactive Communication
 
 * Notify customers via SMS/email for delays & cancellations
 * Reduce inbound call volume
 
-### 🔹 Agent Training
+###  Agent Training
 
 * Improve empathy and tone
 * Encourage personalized communication
 
-### 🔹 Operational Enhancements
+###  Operational Enhancements
 
 * Callback options for calm/polite customers
 * Automate repetitive queries
@@ -195,7 +186,7 @@ Top influencing factors:
 
 ---
 
-## 📈 Expected Outcomes
+##  Expected Outcomes
 
 * Reduced AHT and AST
 * Improved customer satisfaction
@@ -215,14 +206,9 @@ Top influencing factors:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how **data analytics + machine learning + process optimization** can significantly improve call center performance. By focusing on automation, sentiment improvement, and efficient workflows, organizations can deliver better customer experiences while reducing operational costs.
 
 ---
 
-If you want, I can also:
-
-* Convert this into a **GitHub-ready README (with badges & structure)**
-* Add **code snippets section**
-* Or make it **resume/project-description ready** 🚀
